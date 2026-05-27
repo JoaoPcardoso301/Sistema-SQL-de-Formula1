@@ -10,6 +10,7 @@ O sistema simula informações de um campeonato de Fórmula 1, contendo dados so
   -Pilotos
   -Corridas
   -Participantes.
+  
 Além da criação das tabelas, o projeto também possui:
 
   -Relacionamentos entre tabelas
@@ -19,13 +20,12 @@ Além da criação das tabelas, o projeto também possui:
   -Alterações em tabelas
   -Operações com filtros, médias e ordenações.
 
-
 # Tecnologias utilizadas
 
-  -SQL
-  -MySQL
-  -phpMyAdmin
-  -XAMPP
+  - SQL
+  - MySQL
+  - phpMyAdmin
+  - XAMPP
 
 # Como executar
 
